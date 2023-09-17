@@ -1,1 +1,2 @@
-# cs50w
+# CS50: Web Programming With Python And JavaScript
+A Repo For My Assignments Submitted During The CS50W Certification...
